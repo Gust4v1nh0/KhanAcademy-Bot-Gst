@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Khan Academy Bot
 // @version      1.4
-// @description  ur welcome cheater
+// @description  Bem Vindo
 // @author       Gst
 // @match        https://pt.khanacademy.org/*
 // @grant        none
